@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "GameIdeas",
+    "slug": "game-ideas",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#020617"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "abd51e30-21c3-4933-8836-8e5d7f5478fd"
+      }
+    },
+    "android": {
+      "package": "com.andresitomen.gameideas"
+    }
+  },
+  "ios": {
+    "supportsTablet": true
+  },
+  "android": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#ffffff"
+    },
+    "edgeToEdgeEnabled": true
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  }
+}
